@@ -8,7 +8,7 @@
 .hero-alternate__text-wrapper
 {
       font-size: 160px;
-      line-height: .85;
+      line-height: 1.2;
       letter-spacing: -8px;
       color: #183150;
       font-family: RaisonneDemiBold,helvetica,arial,sans-serif;
@@ -584,6 +584,7 @@
       .single-a
       {
             letter-spacing: -10px;
+            
       }
 
       .footer-wrapper
@@ -606,7 +607,7 @@
       {
             font-size: 97px;
             letter-spacing: -3px;
-            line-height: .95;
+            line-height: 1.1;
       }
 
       
